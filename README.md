@@ -6,7 +6,7 @@ This project analyzes a dataset of coupon offers and customer acceptance to iden
 
 ## Dataset
 
-The dataset used in this analysis is `coupons.csv`, available at [https://raw.githubusercontent.com/tanuj-public/datasets/refs/heads/master/coupons.csv](https://raw.githubusercontent.com/tanuj-public/datasets/refs/heads/master/coupons.csv). It contains information about coupon offers, customer demographics, and acceptance outcomes.
+The dataset used in this analysis is `coupons.csv`, available in data/coupons.csv). It contains information about coupon offers, customer demographics, and acceptance outcomes.
 
 ## Project Structure
 
